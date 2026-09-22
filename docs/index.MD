@@ -1,1 +1,1 @@
-
+**Average Color Finder**
